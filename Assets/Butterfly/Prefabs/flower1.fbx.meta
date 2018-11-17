@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 306be176731fbb840bf9d1b6ac80f244
+timeCreated: 1461482668
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cala:ambientLight1
+    100002: cala:camera2
+    100004: cala:Hualei01
+    100006: cala:Hualei02_center
+    100008: cala:Hualei03
+    100010: cala:Hualei04
+    100012: cala:Hualei05
+    100014: cala:Hualei06
+    100016: cala:huazhi01
+    100018: cala:huazhi02
+    100020: cala:pCylinder1
+    100022: cala:Yezi01
+    100024: cala:Yezi02
+    100026: cala:Yezi03
+    100028: cala:Yezi04
+    100030: cala:Yezi05
+    100032: cala:Yezi06
+    100034: //RootNode
+    400000: cala:ambientLight1
+    400002: cala:camera2
+    400004: cala:Hualei01
+    400006: cala:Hualei02_center
+    400008: cala:Hualei03
+    400010: cala:Hualei04
+    400012: cala:Hualei05
+    400014: cala:Hualei06
+    400016: cala:huazhi01
+    400018: cala:huazhi02
+    400020: cala:pCylinder1
+    400022: cala:Yezi01
+    400024: cala:Yezi02
+    400026: cala:Yezi03
+    400028: cala:Yezi04
+    400030: cala:Yezi05
+    400032: cala:Yezi06
+    400034: //RootNode
+    2300000: cala:Hualei01
+    2300002: cala:Hualei02_center
+    2300004: cala:Hualei03
+    2300006: cala:Hualei04
+    2300008: cala:Hualei05
+    2300010: cala:Hualei06
+    2300012: cala:huazhi01
+    2300014: cala:huazhi02
+    2300016: cala:pCylinder1
+    2300018: cala:Yezi01
+    2300020: cala:Yezi02
+    2300022: cala:Yezi03
+    2300024: cala:Yezi04
+    2300026: cala:Yezi05
+    2300028: cala:Yezi06
+    3300000: cala:Hualei01
+    3300002: cala:Hualei02_center
+    3300004: cala:Hualei03
+    3300006: cala:Hualei04
+    3300008: cala:Hualei05
+    3300010: cala:Hualei06
+    3300012: cala:huazhi01
+    3300014: cala:huazhi02
+    3300016: cala:pCylinder1
+    3300018: cala:Yezi01
+    3300020: cala:Yezi02
+    3300022: cala:Yezi03
+    3300024: cala:Yezi04
+    3300026: cala:Yezi05
+    3300028: cala:Yezi06
+    4300000: cala:pCylinder1
+    4300002: cala:Yezi01
+    4300004: cala:Yezi02
+    4300006: cala:Yezi03
+    4300008: cala:Yezi04
+    4300010: cala:Yezi05
+    4300012: cala:Yezi06
+    4300014: cala:Hualei01
+    4300016: cala:Hualei02_center
+    4300018: cala:Hualei03
+    4300020: cala:Hualei04
+    4300022: cala:Hualei05
+    4300024: cala:Hualei06
+    4300026: cala:huazhi01
+    4300028: cala:huazhi02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
